@@ -1,5 +1,7 @@
 # Live_Hand-Written-Digits-Detector
 
+# ML Project Using SVM model
+
 It can detect all the digits in the range 0- 3.
 
 30 samples for each digit were create by me i.e. 30x4 = 120 samples.
